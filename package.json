@@ -1,0 +1,12 @@
+{
+  "name": "reactNativeSVG",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.14.2",
+    "react-native-audio": "^0.2.1"
+  }
+}
